@@ -1,0 +1,13 @@
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe.config
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.exe
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\bin\Debug\GroupProject32D.pdb
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csprojAssemblyReference.cache
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Form1.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Form2.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Properties.Resources.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.GenerateResource.cache
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.csproj.CoreCompileInputs.cache
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.exe
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.pdb
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Calculator.resources
+C:\Users\IgorPC\Desktop\GroupProject32D\GroupProject32D\obj\Debug\GroupProject32D.Converter.resources
